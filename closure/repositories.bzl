@@ -374,7 +374,6 @@ def com_google_closure_stylesheets():
             "    output_licenses = [\"unencumbered\"],",
             "    runtime_deps = [\":com_google_closure_stylesheets\"],",
             ")",
-            "", 
         ]),
     )
 
