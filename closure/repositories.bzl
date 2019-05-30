@@ -635,7 +635,7 @@ def com_google_java_format():
     )
 
 def com_google_javascript_closure_compiler():
-    version = "v20190513"
+    version = "v20190528"
     jar = "closure-compiler-unshaded-%s.jar" % version
     jar_urls = [
         "https://mirror.bazel.build/repo1.maven.org/maven2/com/google/javascript/closure-compiler-unshaded/%s/%s" % (version, jar),
